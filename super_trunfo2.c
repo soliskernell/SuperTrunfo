@@ -117,7 +117,7 @@ SUPER_PODER_2 = (area_2 / populacao_2) + PIB_2 + PIBPerCapita_2 + populacao_2 + 
 printf("SUPER PODER: %.2f\n\n", SUPER_PODER_2);
 
 //COMPARANDO AS CARTAS  IF...ELSE
-printf("--COMPARANDO O ATRIBUTO POPULAÇÃO--\n");
+printf("\n--COMPARANDO O ATRIBUTO POPULAÇÃO--\n");
 
 if (populacao_1 > populacao_2) {
     printf("A carta 1 é a vencedora da rodada");
